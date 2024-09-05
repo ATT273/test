@@ -1,11 +1,9 @@
 NAVIGATION
-```
-[1. GETTING STARTED](#getting-started)
 
-[3. DEPLOY ON VERCEL](#deploy-on-vercel)
+[1. GETTING STARTED](#getting-started)  
+[3. DEPLOY ON VERCEL](#deploy-on-vercel)  
+[4. NEXT-INTL RULES](#next-intl-messages-rules)  
 
-[4. NEXT-INTL RULES](#next-intl-messages-rules)
-```
 ## Getting Started
 
 First, run the development server:
