@@ -1,6 +1,8 @@
 NAVIGATION
 [1. GETTING STARTED](#getting-started)
+
 [3. DEPLOY ON VERCEL](#deploy-on-vercel)
+
 [4. NEXT-INTL RULES](#next-intl-messages-rules)
 ## Getting Started
 
