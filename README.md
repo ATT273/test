@@ -1,9 +1,11 @@
 NAVIGATION
+```
 [1. GETTING STARTED](#getting-started)
 
 [3. DEPLOY ON VERCEL](#deploy-on-vercel)
 
 [4. NEXT-INTL RULES](#next-intl-messages-rules)
+```
 ## Getting Started
 
 First, run the development server:
@@ -39,7 +41,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## NEXT-INTL MESSAGES RULES
+## Next-intl message file rules
 Message files of next-intl should follow the rules so it can be easy to search and maintainable
 
 This is the structure of json file
